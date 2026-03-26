@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=SoumyaBastwad&icon=0&color=10)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 - 🎓 I am a Computer Science and Engineering student  <br>- 💡 Passionate about learning new technologies  <br>- 🌱 Currently improving my coding and problem-solving skills  <br>- 🎯 Goal: To become a Software Engineer  <br>
 
